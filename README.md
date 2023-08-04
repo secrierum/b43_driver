@@ -1,4 +1,4 @@
-# Wireless driver for old 2012 macbookpro
+# Wireless driver for 2012 MacBook Pro
 
 > **_NOTE:_**  You will need a second computer to copy and move the specified zip archive to your 2012 MacBook Pro or use an Ethernet cable to download this archive. Most distributions have an offline installation method. In my case I have 2 USB drives, one with a distribution that i want to install and the other with this driver.
 
