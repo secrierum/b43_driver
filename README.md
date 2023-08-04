@@ -8,9 +8,11 @@ Steps:
 - Copy the extracted directory(b43) to the USB drive and then to your newly installed distribution(for example to the ```Desktop``` directory).
 
 - Open a terminal and enter the following command to create the b43 firmware directory:
+
 ```sudo mkdir /lib/firmware/b43```
 
 - Copy the firmware files into the folder(make sure you change the path after the ```cp``` command if you didn't use a ```'Desktop'``` folder):
+
 ```sudo cp Desktop/b43/*  /lib/firmware/b43```
 
 - Once the files have been successfully copied, it's time to run the two ```modprobe``` commands below:
